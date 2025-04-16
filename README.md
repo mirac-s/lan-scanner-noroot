@@ -30,7 +30,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## **5. LICENSE (MIT License)**
+## **LICENSE (MIT License)**
 
 ```text
 MIT License
