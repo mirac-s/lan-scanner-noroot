@@ -9,6 +9,7 @@ A lightweight Python script for scanning devices on a local network (LAN) using 
 - Detects devices by attempting TCP connection (port 80)
 - Shows connection status: Accepted, Refused, Timeout, or Unreachable
 - No need for `nmap` or root access
+- Works and Coded with Python 
 
 ## Usage
 
