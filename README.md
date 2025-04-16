@@ -14,11 +14,11 @@ A lightweight Python script for scanning devices on a local network (LAN) using 
 ## Usage
 
 ```
-python lan_scan.py <CIDR Notation>
+python scanner.py <CIDR Notation>
 ```
 Example:
 
-`python lan_scan.py 192.168.1.0/24`
+`python scanner.py 192.168.1.0/24`
 
 License
 
