@@ -4,6 +4,10 @@
 
 A lightweight Python script for scanning devices on a local network (LAN) using multi-threading. No root or administrative privileges are required.
 
+## Setup
+```
+git clone https://github.com/mirac-s/lan-scanner-noroot
+```
 ## Features
 - Fast, concurrent scanning using threads
 - Detects devices by attempting TCP connection (port 80)
@@ -26,7 +30,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## **4. LICENSE (MIT License)**
+## **5. LICENSE (MIT License)**
 
 ```text
 MIT License
