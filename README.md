@@ -1,5 +1,7 @@
 # LAN Scanner (No Root Required)
 
+👍 **NO ROOT**
+
 A lightweight Python script for scanning devices on a local network (LAN) using multi-threading. No root or administrative privileges are required.
 
 ## Features
